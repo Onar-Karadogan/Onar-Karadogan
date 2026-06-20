@@ -8,7 +8,7 @@ Machine Learning fascinates me. Hoping to contribute to the field as part of my 
 
 ## About Me
 
-*   I’m currently working on **Agentic development of consumer applications**
+*   I’m currently working on **Agentic development of Consumer Applications**
 
 
 ---
@@ -16,9 +16,9 @@ Machine Learning fascinates me. Hoping to contribute to the field as part of my 
 ## Tech Stack
 
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 **Languages & Databases:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
